@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# RxDb react POC 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Dummy click stream app to explore the capabilities of RxDb for an offline-first React pwa.  
 ## Available Scripts
 
 In the project directory, you can run:
